@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d2519a16-ad77-401a-8999-236f2bb11f02" name="Changes" comment="[DSA] Time/Space complexity + arrays">
+    <list default="true" id="d2519a16-ad77-401a-8999-236f2bb11f02" name="Changes" comment="[DSA] Arrays">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructureAndAlgorithms/Arrays.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructureAndAlgorithms/arrays/Arrays.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +36,7 @@
     "Python.Arrays.executor": "Debug",
     "Python.BigONotation.executor": "Debug",
     "Python.array-practice.executor": "Debug",
+    "Python.list.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
@@ -85,7 +85,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714687428837</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="[DSA] Arrays">
+      <option name="closed" value="true" />
+      <created>1715119881095</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1715119881095</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -103,7 +111,8 @@
     <MESSAGE value="[DSA] First Commit" />
     <MESSAGE value="[DSA] Time Complexity" />
     <MESSAGE value="[DSA] Time/Space complexity + arrays" />
-    <option name="LAST_COMMIT_MESSAGE" value="[DSA] Time/Space complexity + arrays" />
+    <MESSAGE value="[DSA] Arrays" />
+    <option name="LAST_COMMIT_MESSAGE" value="[DSA] Arrays" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
